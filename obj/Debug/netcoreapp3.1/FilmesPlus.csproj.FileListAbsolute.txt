@@ -1,0 +1,13 @@
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.exe
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.deps.json
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.runtimeconfig.json
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.runtimeconfig.dev.json
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.dll
+C:\Users\roger\FilmesPlus\bin\Debug\netcoreapp3.1\FilmesPlus.pdb
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.csprojAssemblyReference.cache
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.AssemblyInfoInputs.cache
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.AssemblyInfo.cs
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.csproj.CoreCompileInputs.cache
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.dll
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.pdb
+C:\Users\roger\FilmesPlus\obj\Debug\netcoreapp3.1\FilmesPlus.genruntimeconfig.cache
